@@ -7,5 +7,5 @@
 4) Cтраница может и будет отличаться внешне от макета. Главное - верстка должна быть семантически верной.
 
 UPD: 
-There is layouted page with CSS
+There is layouted page with styles.css
 https://alisavchenko.github.io/alisavchenko08.github.io/
